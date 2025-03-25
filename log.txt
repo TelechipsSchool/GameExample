@@ -1,0 +1,203 @@
+There are total 3 supported mouse buttons
+Allegro5 initialized
+Game begin
+resized image: main-bg.jpg
+resized image: start-bg.jpg
+Change scene from 0 to 1
+Game initialized
+Game start event loop
+Key with keycode 217 up
+Key with keycode 67 down
+Change scene from 1 to 2
+stop audio (bgm)
+Key with keycode 67 up
+Mouse button 1 down at (435, 309)
+Mouse button 1 up at (401, 278)
+Mouse button 1 down at (401, 278)
+Mouse button 1 up at (401, 278)
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 4 up
+Mouse button 1 down at (404, 276)
+Key with keycode 23 down
+Key with keycode 1 up
+Mouse button 1 up at (381, 122)
+Key with keycode 23 up
+Mouse button 1 down at (386, 82)
+Mouse button 1 up at (386, 82)
+Key with keycode 19 down
+Key with keycode 19 up
+Mouse button 1 down at (460, 82)
+Mouse button 1 up at (460, 82)
+Mouse button 1 down at (460, 82)
+Mouse button 1 up at (460, 82)
+Mouse button 2 down at (460, 82)
+Mouse button 2 up at (460, 82)
+Mouse button 2 down at (460, 82)
+Mouse button 2 up at (460, 82)
+Mouse button 2 down at (460, 82)
+Mouse button 1 down at (460, 82)
+Mouse button 1 up at (460, 82)
+Mouse button 2 up at (460, 82)
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 5 down
+Key with keycode 5 up
+Key with keycode 17 down
+Key with keycode 17 up
+Key with keycode 18 down
+Key with keycode 18 up
+Key with keycode 6 down
+Key with keycode 6 up
+Key with keycode 20 down
+Key with keycode 20 up
+Key with keycode 22 down
+Key with keycode 26 down
+Key with keycode 22 up
+Key with keycode 24 down
+Key with keycode 3 down
+Key with keycode 22 down
+Key with keycode 3 up
+Key with keycode 24 up
+Key with keycode 26 up
+Key with keycode 22 up
+Key with keycode 7 down
+Key with keycode 2 down
+Key with keycode 7 up
+Key with keycode 2 up
+Key with keycode 25 down
+Key with keycode 11 down
+Key with keycode 10 down
+Key with keycode 25 up
+Key with keycode 7 down
+Key with keycode 8 down
+Key with keycode 7 up
+Key with keycode 11 up
+Key with keycode 8 up
+Key with keycode 14 down
+Key with keycode 13 down
+Key with keycode 10 up
+Key with keycode 13 up
+Key with keycode 14 up
+Key with keycode 9 down
+Key with keycode 15 down
+Key with keycode 16 down
+Key with keycode 16 up
+Key with keycode 16 down
+Key with keycode 21 down
+Key with keycode 15 up
+Key with keycode 9 up
+Key with keycode 16 up
+Key with keycode 21 up
+Key with keycode 21 down
+Key with keycode 16 down
+Key with keycode 21 up
+Key with keycode 16 up
+Key with keycode 72 down
+Key with keycode 72 up
+Key with keycode 74 down
+Key with keycode 74 up
+Key with keycode 68 down
+Key with keycode 68 up
+Key with keycode 41 down
+Key with keycode 41 up
+Key with keycode 43 down
+Key with keycode 43 up
+Key with keycode 225 down
+Key with keycode 225 up
+Key with keycode 41 down
+Key with keycode 43 down
+Key with keycode 41 up
+Key with keycode 43 up
+Key with keycode 41 down
+Key with keycode 43 down
+Key with keycode 41 up
+Key with keycode 43 up
+Key with keycode 225 down
+Key with keycode 225 up
+Key with keycode 1 down
+Key with keycode 1 up
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 1 up
+Key with keycode 4 up
+Key with keycode 19 down
+Key with keycode 19 up
+Key with keycode 23 down
+Key with keycode 23 up
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 up
+Key with keycode 23 up
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 1 up
+Key with keycode 23 down
+Key with keycode 4 up
+Key with keycode 1 down
+Key with keycode 23 up
+Key with keycode 19 down
+Key with keycode 1 up
+Key with keycode 4 down
+Key with keycode 19 up
+Key with keycode 4 up
+Key with keycode 1 down
+Key with keycode 1 up
+Key with keycode 4 down
+Key with keycode 4 up
+Key with keycode 23 down
+Key with keycode 23 up
+Key with keycode 1 down
+Key with keycode 1 up
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 up
+Key with keycode 4 up
+Key with keycode 23 down
+Key with keycode 23 up
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 up
+Key with keycode 1 down
+Key with keycode 4 up
+Key with keycode 1 up
+Key with keycode 4 down
+Key with keycode 4 up
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 up
+Key with keycode 19 down
+Key with keycode 1 up
+Mouse button 1 down at (396, 76)
+Mouse button 1 up at (396, 76)
+Key with keycode 19 up
+Key with keycode 1 down
+Key with keycode 1 up
+Key with keycode 1 down
+Key with keycode 1 up
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 up
+Key with keycode 4 up
+Key with keycode 91 down
+Key with keycode 91 up
+Key with keycode 91 down
+Key with keycode 91 up
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 up
+Key with keycode 23 up
+Key with keycode 91 down
+Key with keycode 91 up
+Key with keycode 91 down
+Key with keycode 91 up
+Key with keycode 91 down
+Key with keycode 91 up
+Key with keycode 91 down
+Key with keycode 91 up
+Key with keycode 91 down
+Key with keycode 91 up
+Key with keycode 91 down
+Key with keycode 91 up
+Window close button clicked
+Game end
